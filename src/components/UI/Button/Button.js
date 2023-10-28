@@ -1,8 +1,9 @@
 import React from 'react';
 
-import styled from 'styled-components';
-//  css module class approach to set claas to be unique to this component.
-  // Not allow to apply to other component it create a unique call name for the call
+import styled from 'styled-components'; // *  Like this need to import the css filr
+//  css module class approach is to set class to be unique to this component.
+  // Not allowed to apply to other component, It create a unique class name for the classes in the css module.
+   //  (By adding extra name to the class like -> "Button_button__KXFVC" )
     // Change the css file as Buttom.module.css  
 import styles from './Button.module.css';
 
